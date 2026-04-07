@@ -6,8 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="server" />
+        <module name="cdsfsd" />
         <module name="personnel_management_system" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cdsfsd" target="25" />
+      <module name="Personnel_Management_sys_SERVER" target="25" />
+    </bytecodeTargetLevel>
   </component>
 </project>
