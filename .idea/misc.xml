@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/../Personnel_Management_sys_SERVER/untitled/pom.xml" />
         <option value="$PROJECT_DIR$/../Personnel_Management_sys_SERVER/server/pom.xml" />
         <option value="$PROJECT_DIR$/../Personnel_Management_sys_SERVER/server_p/pom.xml" />
+        <option value="$PROJECT_DIR$/../Personnel_Management_sys_SERVER/untitled1/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
@@ -16,8 +17,9 @@
         <option value="$PROJECT_DIR$/cdsfsd/pom.xml" />
         <option value="$PROJECT_DIR$/../Personnel_Management_sys_SERVER/server_p/pom.xml" />
         <option value="$PROJECT_DIR$/../Personnel_Management_sys_SERVER/untitled/pom.xml" />
+        <option value="$PROJECT_DIR$/../Personnel_Management_sys_SERVER/untitled1/pom.xml" />
       </set>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_25" default="true" project-jdk-name="openjdk-25" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_26" project-jdk-name="25" project-jdk-type="JavaSDK" />
 </project>
